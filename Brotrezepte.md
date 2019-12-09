@@ -9,7 +9,7 @@ Getestet mit Panasonic SD-ZB2502BXA (Brotbachautomat)
 1 El = 1 Esslöffel
 
 
-### Dinkelbrot
+### Dinkelbrot:
 | Menge | Zutat |
 | --- | --- |
 | 3 dl | Wasser |
@@ -20,7 +20,7 @@ Getestet mit Panasonic SD-ZB2502BXA (Brotbachautomat)
 | 7 g | Trocken Hefe |
 
 
-### Kartoffelbrot
+### Kartoffelbrot:
 | Menge | Zutat |
 | --- | --- |
 | 6 dl | Wasser |
@@ -31,7 +31,7 @@ Getestet mit Panasonic SD-ZB2502BXA (Brotbachautomat)
 | 7 g | Trocken Hefe |
 
 
-### Pizzateig
+### Pizzateig:
 | Menge | Zutat |
 | --- | --- |
 |  2.5 dl | Wasser |
